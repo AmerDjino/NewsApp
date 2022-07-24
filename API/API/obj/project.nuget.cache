@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "hbbN8cXmvUKlYADKdHTOZpYzaURMDN8+7V0KoqGaDv8PqEkHshYEAzun9LLzl90KwvNwcPC41AarbJE2qu1ItA==",
+  "dgSpecHash": "D1KWRmKFjRc9W16PoSJYyNERS9iSUEyN253REZ/av1VhD5phyCdCriqrLExf+HPkoT1ukc5zwtkvD2tafhlCXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\amer.djino\\source\\repos\\NewsApp\\API\\API\\API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\amer.djino\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\amer.djino\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\amer.djino\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\amer.djino\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\amer.djino\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }
