@@ -1,0 +1,12 @@
+7/24/2022 2:49:21 PM	This log contains information about the import operation of the script 'NewsAppDBScript.sql' into project 'NewsAppDatabase' on computer 'API2121' by user'amer.djino.
+7/24/2022 2:49:22 PM	Started importing file: C:\Users\amer.djino\Desktop\NewsAppDBScript.sql 
+7/24/2022 2:49:22 PM	File name C:\Users\amer.djino\Desktop\NewsAppDBScript.sql (size: 7047)
+7/24/2022 2:49:22 PM	Parsing import script
+7/24/2022 2:49:22 PM	Total number of batches in script: 1
+7/24/2022 2:49:22 PM	Total number of statements in script: 26
+7/24/2022 2:49:22 PM	The script was successfully imported into the project.
+7/24/2022 2:49:22 PM	Analyzing schema objects...
+7/24/2022 2:49:22 PM	Scanning project for duplicate elements
+7/24/2022 2:49:22 PM	Finished duplicate element processing
+7/24/2022 2:49:23 PM	A summary of the import was saved to the following location: C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\Import Script Logs\NewsAppDBScript_sql_20220724124921.log
+7/24/2022 2:49:23 PM	Click Finish to continue...
