@@ -2,11 +2,14 @@ C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\bin\Debug\net6.0\DALayer.de
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\bin\Debug\net6.0\DALayer.runtimeconfig.json
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\bin\Debug\net6.0\DALayer.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\bin\Debug\net6.0\DALayer.pdb
+C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\bin\Debug\net6.0\Contracts.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\bin\Debug\net6.0\Contracts.pdb
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.csproj.AssemblyReference.cache
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfoInputs.cache
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfo.cs
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.csproj.CopyComplete
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\refint\DALayer.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\DALayer\obj\Debug\net6.0\DALayer.pdb

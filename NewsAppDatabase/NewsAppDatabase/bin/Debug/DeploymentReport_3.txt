@@ -1,0 +1,40 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Article] (Table)
+       [dbo].[ArticleComment] (Table)
+       [dbo].[ArticlePicture] (Table)
+       [dbo].[ArticleTag] (Table)
+       [dbo].[Category] (Table)
+       [dbo].[Comment] (Table)
+       [dbo].[Picture] (Table)
+       [dbo].[Priviledge] (Table)
+       [dbo].[Role] (Table)
+       [dbo].[RolePriviledge] (Table)
+       [dbo].[Tag] (Table)
+       [dbo].[User] (Table)
+       [dbo].[UserRole] (Table)
+       [dbo].[Fk_Category_Article_CategoryID] (Foreign Key)
+       [dbo].[Fk_User_Article_UserID] (Foreign Key)
+       [dbo].[Fk_Article_ArticleComment_ArticleID] (Foreign Key)
+       [dbo].[Fk_User_ArticleComment_UserID] (Foreign Key)
+       [dbo].[Fk_Comment_ArticleComment_CommentID] (Foreign Key)
+       [dbo].[Fk_Article_ArticlePicture_ArticleID] (Foreign Key)
+       [dbo].[Fk_Picture_ArticlePicture_PictureID] (Foreign Key)
+       [dbo].[Fk_Article_ArticleTag_ArticleID] (Foreign Key)
+       [dbo].[Fk_Tag_ArticleTag_TagID] (Foreign Key)
+       [dbo].[Fk_Role_RolePriviledge_RoleID] (Foreign Key)
+       [dbo].[Fk_Priviledge_RolePriviledge_PriviledgeID] (Foreign Key)
+       [dbo].[Fk_User_UserRole_UserID] (Foreign Key)
+       [dbo].[Fk_Role_UserRole_RoleID] (Foreign Key)
+
+** Supporting actions

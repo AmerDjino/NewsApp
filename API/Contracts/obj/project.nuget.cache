@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKn3KI0/RtOXaqWM3neYpx7dkJp6U1TVccCbN6j7b3DKH4vVOlCZgRtt0LORjyPUEOipJZSsrU4PhHRauPjd7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amer.djino\\source\\repos\\NewsApp\\API\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.22.0\\microsoft.identitymodel.jsonwebtokens.6.22.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.identitymodel.logging\\6.22.0\\microsoft.identitymodel.logging.6.22.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.22.0\\microsoft.identitymodel.tokens.6.22.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.22.0\\system.identitymodel.tokens.jwt.6.22.0.nupkg.sha512",
+    "C:\\Users\\amer.djino\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -31,7 +31,6 @@ namespace DALayer
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
                 optionsBuilder.UseSqlServer("Server=API2121;Database=NewsAppDB;Trusted_Connection=True;");
             }
         }
@@ -237,6 +236,10 @@ namespace DALayer
                 entity.Property(e => e.LastName).HasMaxLength(50);
 
                 entity.Property(e => e.Username).HasMaxLength(50);
+
+                entity.Property(e => e.PasswordHash).HasMaxLength(1024);
+
+                entity.Property(e => e.PasswordSalt).HasMaxLength(1024);
 
                 entity.HasMany(d => d.Roles)
                     .WithMany(p => p.Users)

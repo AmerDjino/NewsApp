@@ -2,9 +2,9 @@ C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\bin\Deb
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\bin\Debug\NewsAppDatabase.dll
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\bin\Debug\NewsAppDatabase.pdb
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\NewsAppDatabase.sqlproj.AssemblyReference.cache
+C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\NewsAppDatabase.dll
+C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\NewsAppDatabase.pdb
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\Model.xml
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\refactor.xml
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\postdeploy.sql
 C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\predeploy.sql
-C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\NewsAppDatabase.dll
-C:\Users\amer.djino\source\repos\NewsApp\NewsAppDatabase\NewsAppDatabase\obj\Debug\NewsAppDatabase.pdb

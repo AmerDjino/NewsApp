@@ -43,6 +43,12 @@ C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\runtimes\win\l
 C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\BLLayer.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Contracts.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\DALayer.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\BLLayer.pdb
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\DALayer.pdb
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Contracts.pdb
 C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
 C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
@@ -59,3 +65,14 @@ C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\API.pdb
 C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\amer.djino\source\repos\NewsApp\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
