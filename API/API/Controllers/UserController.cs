@@ -1,5 +1,6 @@
 ﻿using BLLayer.Interfaces;
 using Contracts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -16,14 +17,23 @@ namespace API.Controllers
             _userService = userService;
         }
 
-        // GET: api/<UserController>
-        [HttpGet("GetAllUsers")]
-        public async Task<List<UserContract>> GetAllUsers()
+        /// <summary>
+        /// Returns all active Users
+        /// </summary>
+        /// <returns></returns>
+        [Authorize]
+        [HttpGet("users")]
+        public async Task<ActionResult<List<UserContract>>> GetAllUsers()
         {
-            return await _userService.GetAllUsers();
+            var result = await _userService.GetAllUsers();
+            return Ok(result);
         }
 
-        // GET api/<UserController>/5
+        /// <summary>
+        /// Returns active user by ID
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         public async Task<ActionResult<UserContract>> GetUserById(Guid userId)
         {

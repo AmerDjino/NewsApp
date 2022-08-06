@@ -76,3 +76,7 @@ C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.Exte
 C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

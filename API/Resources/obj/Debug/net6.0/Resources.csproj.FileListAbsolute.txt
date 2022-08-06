@@ -1,0 +1,12 @@
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\bin\Debug\net6.0\Resources.deps.json
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\bin\Debug\net6.0\Resources.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\bin\Debug\net6.0\Resources.pdb
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.csproj.AssemblyReference.cache
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.AssemblyInfoInputs.cache
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.AssemblyInfo.cs
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.csproj.CoreCompileInputs.cache
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\refint\Resources.dll
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\Resources.pdb
+C:\Users\amer.djino\source\repos\NewsApp\API\Resources\obj\Debug\net6.0\ref\Resources.dll

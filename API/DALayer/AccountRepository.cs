@@ -24,7 +24,7 @@ namespace DALayer
                 .SingleOrDefaultAsync(x => x.Username == loginContract.Username);
             if(user == null)
             {
-                return null;
+                return new UserContract();
             }
             using var hmac = new HMACSHA512(user.PasswordSalt);
             var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(loginContract.Password));
@@ -32,7 +32,7 @@ namespace DALayer
             {
                 if (computedHash[i] != user.PasswordHash[i])
                 {
-                    return null;
+                    return new UserContract();
                 }
             }
             var userContract = new UserContract(user.FirstName, user.LastName, user.LastName);
